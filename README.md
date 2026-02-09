@@ -33,11 +33,19 @@ Calculates additional insights such as price per square foot to help evaluate pr
 Exports the final processed data into an Excel file for easy review, filtering, and reporting.
 
 # 🛠️ Technologies & Tools Used -
+
 •	UiPath Studio
+
 •	UiPath Web Scraping Wizard
+
 •	Data Scraping Activities
+
 •	Browser Automation (Incognito Mode)
+
 •	Selectors (Basic Understanding & Validation)
+
 •	Data Table Operations (Add Column, For Each Row, Assign)
+
 •	Excel Activities (Write Range, Append Range)
+
 •	Try Catch (Basic Exception Handling)

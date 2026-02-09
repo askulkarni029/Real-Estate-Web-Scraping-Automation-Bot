@@ -49,3 +49,10 @@ Exports the final processed data into an Excel file for easy review, filtering, 
 •	Excel Activities (Write Range, Append Range)
 
 •	Try Catch (Basic Exception Handling)
+
+📂 Project Workflow -
+💡 Use Cases -
+📘 What This Project Demonstrates -
+📈 Future Enhancements -
+
+# 🧑‍💻 Author -

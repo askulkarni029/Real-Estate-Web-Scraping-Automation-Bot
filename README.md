@@ -11,23 +11,23 @@ This project strengthens skills in user input handling, browser automation, stru
 
 # 🚀 Key Features -
 
-🔍 City-Based Property Search
+* 🔍 City-Based Property Search
 Allows users to enter any city name and automatically fetch property listings from Zillow based on that input.
 
-🌡️ Automated Browser Navigation
+* 🌡️ Automated Browser Navigation
 Opens the website in an incognito browser and performs all search and navigation steps without manual intervention.
 
-🎯Multi-Page Web Scraping
+* 🎯 Multi-Page Web Scraping
 Uses UiPath’s Web Scraping Wizard with pagination to extract property data from multiple result pages.
 
-🧠 Structured Data Extraction
+* 🧠 Structured Data Extraction
 Captures important listing details such as price, bedrooms, bathrooms, square feet, and full address in a structured format.
 
-📄 Data Cleaning and Transformation
+* 📄 Data Cleaning and Transformation
 Automatically removes unwanted text like currency symbols and “sq ft,” converts values into numeric format, and prepares clean data for analysis.
 
-🛡️Price per Square Foot Calculation
+* 🛡️ Price per Square Foot Calculation
 Calculates additional insights such as price per square foot to help evaluate property value.
 
-⚡ Excel Export and Reporting
+* ⚡ Excel Export and Reporting
 Exports the final processed data into an Excel file for easy review, filtering, and reporting.

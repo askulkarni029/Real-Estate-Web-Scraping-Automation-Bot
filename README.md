@@ -8,3 +8,26 @@ The bot uses UiPath’s Web Scraping Wizard to extract structured data across mu
 Finally, the cleaned and processed dataset is exported into an Excel file using Excel activities for easy analysis and reporting. The automation includes simple exception handling, stable selector usage, and a clean workflow structure, giving hands-on experience in real-world web automation and data extraction scenarios.
 
 This project strengthens skills in user input handling, browser automation, structured data scraping, Data Table operations, data transformation, and Excel integration.
+
+# 🚀 Key Features -
+
+🔍 City-Based Property Search
+Allows users to enter any city name and automatically fetch property listings from Zillow based on that input.
+
+🌡️ Automated Browser Navigation
+Opens the website in an incognito browser and performs all search and navigation steps without manual intervention.
+
+🎯Multi-Page Web Scraping
+Uses UiPath’s Web Scraping Wizard with pagination to extract property data from multiple result pages.
+
+🧠 Structured Data Extraction
+Captures important listing details such as price, bedrooms, bathrooms, square feet, and full address in a structured format.
+
+📄 Data Cleaning and Transformation
+Automatically removes unwanted text like currency symbols and “sq ft,” converts values into numeric format, and prepares clean data for analysis.
+
+🛡️Price per Square Foot Calculation
+Calculates additional insights such as price per square foot to help evaluate property value.
+
+⚡ Excel Export and Reporting
+Exports the final processed data into an Excel file for easy review, filtering, and reporting.

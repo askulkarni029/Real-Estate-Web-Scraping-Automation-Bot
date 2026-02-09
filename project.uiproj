@@ -1,0 +1,6 @@
+{
+  "Name": "Bot4_RealEstateScaraping",
+  "ProjectType": "Process",
+  "Description": "data scraping from Zillow.com",
+  "MainFile": "Main.xaml"
+}

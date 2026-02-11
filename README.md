@@ -51,9 +51,60 @@ Exports the final processed data into an Excel file for easy review, filtering, 
 •	Try Catch (Basic Exception Handling)
 
 📂 Project Workflow -
+
+* The user enters a city name, and the bot launches Zillow in an incognito browser.
+
+* The bot searches for property listings in the selected city.
+
+* UiPath Web Scraping Wizard extracts structured listing data across multiple pages.
+
+* The extracted data is stored in a DataTable for processing.
+
+* Data is cleaned by removing symbols like $ and sq ft and converting text into numbers.
+
+* Final processed data is exported into an Excel file for analysis.
+  
 💡 Use Cases -
+
+* Helps real estate agents analyze property prices across different cities.
+
+* Assists investors in comparing price per square foot.
+
+* Enables market trend analysis for housing demand.
+
+* Reduces manual effort in collecting real estate data.
+
+* Supports business intelligence teams with structured property data.
+
+* Useful for academic or market research.
+  
 📘 What This Project Demonstrates -
+
+* Ability to build real-world UiPath automation workflows.
+
+* Strong knowledge of web scraping and pagination handling.
+
+* Experience in DataTable manipulation and data cleaning.
+
+* Implementation of user input handling.
+
+* Excel automation and report generation skills.
+
+* Use of reliable selectors and basic exception handling.
+  
 📈 Future Enhancements -
+
+* Add support for multiple real estate websites.
+
+* Implement automatic scheduling of data extraction.
+
+* Include advanced analytics like price trends and graphs.
+
+* Add database storage instead of Excel.
+
+* Create a dashboard for real-time data visualization.
+
+* Enable email reporting with attached Excel files.
 
 # 🧑‍💻 Author -
 Abhijit Kulkarni RPA Developer | UiPath | Power Automate | Automation Enthusiast
